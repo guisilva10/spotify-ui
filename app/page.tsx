@@ -263,7 +263,7 @@ export default function Home() {
             <div className="h-1 rounded-full w-96 bg-zinc-600">
               <div className="h-1 rounded-full w-40 bg-zinc-200"></div>
             </div>
-            <span className="text-xs text-zinc-400">3:14</span>
+            <span className="text-xs text-zinc-400">2:19</span>
           </div>
         </div>
         <div className="flex items-center gap-4">
