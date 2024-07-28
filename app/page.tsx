@@ -172,7 +172,7 @@ export default function Home() {
             </a>
           </div>
 
-          <h2 className="font-semibold text-3xl mt-10">Made for Guilherme Schell Silva</h2>
+          <h2 className="font-semibold text-3xl mt-10">Playlist de Guilherme Silva</h2>
 
           <div className="grid grid-cols-5 gap-4 mt-4">
             <a className="bg-white/5 p-3 rounded-md flex gap-2 flex-col hover:bg-white/10">
