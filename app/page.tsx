@@ -244,7 +244,7 @@ export default function Home() {
           />
           <div className="flex flex-col">
             <strong className="font-normal">Pandemia</strong>
-            <span className="text-xs text-zinc-400">Mc Kevin</span>
+            <span className="text-xs text-zinc-400">Mc Kevin (Álbum Fênix) Perera DJ</span>
           </div>
         </div>
         <div className="flex flex-col items-center gap-2">
